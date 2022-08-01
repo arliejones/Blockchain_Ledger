@@ -43,4 +43,4 @@ For the program to run correctly, the user must make sure that all libraries and
 
 ## Streamlit Interface
 
-![]("Resources/pychain.png)
+![](Resources/pychain.png)
