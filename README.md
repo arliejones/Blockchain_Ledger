@@ -41,6 +41,12 @@ For the program to run correctly, the user must make sure that all libraries and
 
 ----
 
-## Streamlit Interface
+## Functionality Test on Streamlit
 
-![](Resources/pychain.png)
+Blockchain with several blocks:
+
+![](Resources/block.png)
+
+Blockchain is valid:
+
+![](Resources/validate.png)
